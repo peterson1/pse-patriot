@@ -1,0 +1,912 @@
+{
+    "AC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "ACEN": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 9,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (19-May-2026)"
+        }
+    },
+    "ACR": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "AEV": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.2,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "AGI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "ALI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (8-May-2026)"
+        }
+    },
+    "ALTER": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 7.5,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (3-May-2026)"
+        }
+    },
+    "AP": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (7-May-2026)"
+        }
+    },
+    "APL": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 11,
+            "limitPricePercent": 2,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "APX": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (8-May-2026)"
+        }
+    },
+    "AREIT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "ASLAG": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 12,
+            "limitPricePercent": 2.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (19-May-2026)"
+        }
+    },
+    "AT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 10,
+            "limitPricePercent": 2,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "ANS": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (5-May-2026)"
+        }
+    },
+    "AUB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "AXLM": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (17-May-2026)"
+        }
+    },
+    "BC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "BDO": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 2.5,
+            "limitPricePercent": 0.25,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "BLOOM": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "BNCOM": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 7.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "BPI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 2.5,
+            "limitPricePercent": 0.25,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "CBC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "CDC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "CEB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (6-May-2026)"
+        }
+    },
+    "CEU": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (13-May-2026)"
+        }
+    },
+    "CIC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 7,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "CLI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "CNPF": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "CNVRG": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "COSCO": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "CPG": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "CREC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (7-May-2026)"
+        }
+    },
+    "CREIT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (15-May-2026)"
+        }
+    },
+    "CROWN": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "DD": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 7.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "DDMPR": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (9-May-2026)"
+        }
+    },
+    "DELM": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 9,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "DHI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 10,
+            "limitPricePercent": 2,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "DMC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "DMW": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "DNL": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "ELI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "EMI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "EURO": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 12,
+            "limitPricePercent": 2.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "FB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "FDC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "FEU": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (4-May-2026)"
+        }
+    },
+    "FGEN": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.8,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (4-May-2026)"
+        }
+    },
+    "FILRT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "FLI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (4-May-2026)"
+        }
+    },
+    "FNI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "FPH": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "GERI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (10-May-2026)"
+        }
+    },
+    "GLO": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (15-May-2026)"
+        }
+    },
+    "GLOBA": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "GLOBB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "GMA7": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "GMAP": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "GSMI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (6-May-2026)"
+        }
+    },
+    "GTCAP": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "HOME": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "ICT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (24-May-2026)"
+        }
+    },
+    "IMI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (9-May-2026)"
+        }
+    },
+    "JFC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 2.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "JGS": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "KEEPR": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 9,
+            "limitPricePercent": 2,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "LAND": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 7.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "LC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (14-May-2026)"
+        }
+    },
+    "LCB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (12-May-2026)"
+        }
+    },
+    "LPZ": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (9-May-2026)"
+        }
+    },
+    "LTG": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 2.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (13-May-2026)"
+        }
+    },
+    "MA": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (12-May-2026)"
+        }
+    },
+    "MAC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "MARC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "MBT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (19-May-2026)"
+        }
+    },
+    "MEG": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "MER": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (5-May-2026)"
+        }
+    },
+    "MONDE": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (3-May-2026)"
+        }
+    },
+    "MREIT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (6-May-2026)"
+        }
+    },
+    "MRSGI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 7,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "MWC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (22-May-2026)"
+        }
+    },
+    "MWIDE": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (8-May-2026)"
+        }
+    },
+    "MYNLD": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (24-May-2026)"
+        }
+    },
+    "NIKL": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Sonnet 4.6 via Github Copilot (5-May-2026)"
+        }
+    },
+    "OGP": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 7,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Opus 4.7 via Claude Code (24-May-2026)"
+        }
+    },
+    "PAL": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "PCOR": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "PERC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 11,
+            "limitPricePercent": 2,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "PGOLD": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (22-May-2026)"
+        }
+    },
+    "PIZZA": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (9-May-2026)"
+        }
+    },
+    "PLUS": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 9,
+            "limitPricePercent": 2,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "PMPC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 9.5,
+            "limitPricePercent": 2.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (4-May-2026)"
+        }
+    },
+    "PNB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "PPC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "PREIT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (14-May-2026)"
+        }
+    },
+    "PSB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "PSE": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "PX": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (8-May-2026)"
+        }
+    },
+    "PXP": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 10.5,
+            "limitPricePercent": 2,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "RCB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "RCR": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "REDC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "RFM": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 2.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (5-May-2026)"
+        }
+    },
+    "RLC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (15-May-2026)"
+        }
+    },
+    "ROCK": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "RRHI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "SCC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "SECB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "SEVN": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "SGI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (5-May-2026)"
+        }
+    },
+    "SGP": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "SHLPH": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (6-May-2026)"
+        }
+    },
+    "SHNG": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (4-May-2026)"
+        }
+    },
+    "SM": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 2,
+            "limitPricePercent": 0.25,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "SMC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "SMPH": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 2.5,
+            "limitPricePercent": 0.25,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "SPC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (6-May-2026)"
+        }
+    },
+    "SPNEC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (6-May-2026)"
+        }
+    },
+    "STI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 7.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "STR": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "TEL": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (14-May-2026)"
+        }
+    },
+    "TOP": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 7,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (10-May-2026)"
+        }
+    },
+    "UBP": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (3-May-2026)"
+        }
+    },
+    "URC": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "VLL": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "VREIT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 3,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (3-May-2026)"
+        }
+    },
+    "VVT": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "WEB": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 8.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "WLCON": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+        }
+    },
+    "WPI": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 12.5,
+            "limitPricePercent": 3,
+            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (3-May-2026)"
+        }
+    }
+}
