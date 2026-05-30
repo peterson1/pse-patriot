@@ -8,9 +8,9 @@
     },
     "ACEN": {
         "trailingLeg": {
-            "trailingOffsetPercent": 9,
+            "trailingOffsetPercent": 10,
             "limitPricePercent": 1,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (19-May-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-May-2026)"
         }
     },
     "ACR": {
@@ -232,9 +232,9 @@
     },
     "CROWN": {
         "trailingLeg": {
-            "trailingOffsetPercent": 8.5,
+            "trailingOffsetPercent": 5,
             "limitPricePercent": 1.5,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-May-2026)"
         }
     },
     "DD": {
@@ -575,9 +575,9 @@
     },
     "MYNLD": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3.5,
-            "limitPricePercent": 0.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (24-May-2026)"
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-May-2026)"
         }
     },
     "NIKL": {
@@ -589,9 +589,9 @@
     },
     "OGP": {
         "trailingLeg": {
-            "trailingOffsetPercent": 7,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Opus 4.7 via Claude Code (24-May-2026)"
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-May-2026)"
         }
     },
     "PAL": {
@@ -701,9 +701,9 @@
     },
     "RCR": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3.5,
-            "limitPricePercent": 0.5,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-May-2026)"
         }
     },
     "REDC": {
