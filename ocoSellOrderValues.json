@@ -48,6 +48,13 @@
             "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (3-May-2026)"
         }
     },
+    "ANS": {
+        "trailingLeg": {
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (5-May-2026)"
+        }
+    },
     "AP": {
         "trailingLeg": {
             "trailingOffsetPercent": 4,
@@ -88,13 +95,6 @@
             "trailingOffsetPercent": 10,
             "limitPricePercent": 2,
             "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
-        }
-    },
-    "ANS": {
-        "trailingLeg": {
-            "trailingOffsetPercent": 5.5,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (5-May-2026)"
         }
     },
     "AUB": {
