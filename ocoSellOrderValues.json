@@ -904,9 +904,9 @@
     },
     "WPI": {
         "trailingLeg": {
-            "trailingOffsetPercent": 12.5,
-            "limitPricePercent": 3,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (3-May-2026)"
+            "trailingOffsetPercent": 9,
+            "limitPricePercent": 2.5,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-May-2026)"
         }
     }
 }
