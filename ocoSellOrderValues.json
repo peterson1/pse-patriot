@@ -204,9 +204,9 @@
     },
     "COSCO": {
         "trailingLeg": {
-            "trailingOffsetPercent": 4,
+            "trailingOffsetPercent": 4.5,
             "limitPricePercent": 0.75,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (1-Jun-2026)"
         }
     },
     "CPG": {
