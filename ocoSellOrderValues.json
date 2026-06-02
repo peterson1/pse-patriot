@@ -239,9 +239,9 @@
     },
     "DD": {
         "trailingLeg": {
-            "trailingOffsetPercent": 7.5,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (2-Jun-2026)"
         }
     },
     "DDMPR": {
