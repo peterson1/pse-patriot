@@ -428,9 +428,9 @@
     },
     "ICT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3.5,
-            "limitPricePercent": 0.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (24-May-2026)"
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (2-Jun-2026)"
         }
     },
     "IMI": {
@@ -533,9 +533,9 @@
     },
     "MER": {
         "trailingLeg": {
-            "trailingOffsetPercent": 4,
-            "limitPricePercent": 0.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (5-May-2026)"
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (2-Jun-2026)"
         }
     },
     "MONDE": {
@@ -561,9 +561,9 @@
     },
     "MWC": {
         "trailingLeg": {
-            "trailingOffsetPercent": 4.5,
-            "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (22-May-2026)"
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (2-Jun-2026)"
         }
     },
     "MWIDE": {
@@ -576,8 +576,8 @@
     "MYNLD": {
         "trailingLeg": {
             "trailingOffsetPercent": 5.5,
-            "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-May-2026)"
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (2-Jun-2026)"
         }
     },
     "NIKL": {
@@ -806,9 +806,9 @@
     },
     "SMPH": {
         "trailingLeg": {
-            "trailingOffsetPercent": 2.5,
-            "limitPricePercent": 0.25,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (2-Jun-2026)"
         }
     },
     "SPC": {

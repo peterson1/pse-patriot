@@ -6,12 +6,13 @@ description: >-
   % — by researching up-to-date PSE price action, liquidity, volatility, and the
   14-day ATR, writing a human-verifiable research note under research/, and
   adding or updating that ticker's entry in ocoSellOrderValues.json. Use this
-  whenever the user gives a PSE ticker and wants OCO / trailing-stop / stop-loss
-  sell values computed or refreshed, asks to update ocoSellOrderValues.json, or
-  wants a PSE stock researched for a swing-trade exit — e.g. "update OCO for
-  ICT", "compute the trailing stop for ALI", "refresh sell values for JFC",
-  "add SCC to the oco json". Triggers on a bare ticker plus "OCO" / "trailing
-  offset" / "limit price" / "sell order" even when the JSON file is not named.
+  whenever the user gives one or more PSE tickers and wants OCO / trailing-stop
+  / stop-loss sell values computed or refreshed, asks to update
+  ocoSellOrderValues.json, or wants PSE stocks researched for a swing-trade exit
+  — e.g. "update OCO for ICT", "compute the trailing stop for ALI", "refresh
+  sell values for JFC", "add SCC to the oco json", "update OCO for ICT, ALI and
+  SCC". Triggers on one or more bare tickers plus "OCO" / "trailing offset" /
+  "limit price" / "sell order" even when the JSON file is not named.
 ---
 
 # PSE OCO Sell-Order Updater
@@ -26,11 +27,20 @@ swing trade on the Philippine Stock Exchange. The bottom leg is a **trailing sto
 The deliverables are (1) a dated, human-verifiable research note in `research/`, and
 (2) an added or updated entry in `ocoSellOrderValues.json`.
 
-## The argument
+## The arguments
 
-This skill takes **one argument: the PSE ticker symbol** (e.g. `ICT`, `ALI`, `SCC`).
-Normalize it to uppercase. If the user did not supply a ticker, ask for it before doing
-anything else — every step depends on it.
+This skill takes **one or more PSE ticker symbols** (e.g. `ICT`, or `ICT ALI SCC`). Accept
+them however the user supplies them — space-, comma-, or "and"-separated — and **normalize
+each to uppercase**. De-duplicate repeated tickers. If the user supplied no ticker, ask for
+at least one before doing anything else — every step depends on it.
+
+When more than one ticker is given, run the **full per-ticker workflow (steps 1–7) once for
+each ticker, independently**: each ticker gets its own research note and its own entry in
+`ocoSellOrderValues.json`. Do **step 0 (the date) once** up front and reuse the same date for
+every ticker. Process the tickers in the order given. If one ticker can't be verified
+(wrong-exchange ambiguity, no reliable data, halted), **note it, skip it, and continue with
+the rest** — don't abort the whole batch because one failed. The final report (step 8) then
+covers all tickers together.
 
 ## Files this skill touches
 
@@ -44,9 +54,14 @@ anything else — every step depends on it.
 
 ## Workflow
 
-### 0. Get today's date (reliably)
+**For a single ticker, run steps 0–8 once.** For **multiple tickers**, run step 0 once, then
+run steps 1–7 once per ticker (fully completing one ticker — research note + JSON entry —
+before moving to the next keeps each audit trail self-contained), and run step 8 once at the
+end to summarize the whole batch.
 
-Don't guess the date. Run:
+### 0. Get today's date (reliably) — once for the whole batch
+
+Don't guess the date. Run this once and reuse the result for every ticker:
 
 ```powershell
 Get-Date -Format "d-MMM-yyyy"   # e.g. 30-May-2026  → used in suggestedBy and the note
@@ -159,6 +174,10 @@ Read the file first to confirm its current shape. Each entry is:
   old vs new for each field, and what changed in the data (volatility / liquidity) that
   justifies the change.
 
+When processing several tickers, still apply **one targeted edit per ticker** at that
+ticker's own alphabetical spot — don't batch them into a single rewrite of the file. Re-read
+the file between inserts if a prior insert shifted line numbers.
+
 ### 7. Set `suggestedBy`
 
 Format: `"<your model name> via <tool> (<DD-Mon-YYYY>)"` using the date from step 0. When
@@ -167,10 +186,16 @@ Use whatever model is actually running — don't hardcode a model you aren't.
 
 ### 8. Report back
 
-Give the user a concise summary: company name + confirmation it's the PSE listing, the key
-data (last close, ATR%, liquidity read), the computed **Trailing Offset %** and **Limit
-Price %**, whether the entry was **added or updated** (old → new if updated), and the path to
-the research note. Remind them the note is the audit trail for manual verification.
+Give the user a concise summary **for each ticker processed**: company name + confirmation
+it's the PSE listing, the key data (last close, ATR%, liquidity read), the computed
+**Trailing Offset %** and **Limit Price %**, whether the entry was **added or updated**
+(old → new if updated), and the path to the research note. Remind them each note is the audit
+trail for manual verification.
+
+When you processed **multiple tickers**, lead with a compact summary table (one row per
+ticker: ticker, offset %, limit %, added/updated) and then the per-ticker detail. **Call out
+any ticker you skipped** and why (couldn't confirm PSE listing, no reliable data, halted), so
+the batch result is unambiguous.
 
 ## Guardrails
 
