@@ -54,10 +54,10 @@ covers all tickers together.
 
 ## Workflow
 
-**For a single ticker, run steps 0–8 once.** For **multiple tickers**, run step 0 once, then
+**For a single ticker, run steps 0–9 once.** For **multiple tickers**, run step 0 once, then
 run steps 1–7 once per ticker (fully completing one ticker — research note + JSON entry —
-before moving to the next keeps each audit trail self-contained), and run step 8 once at the
-end to summarize the whole batch.
+before moving to the next keeps each audit trail self-contained), and run steps 8–9 once at
+the end to summarize the whole batch and push it.
 
 ### 0. Get today's date (reliably) — once for the whole batch
 
@@ -196,6 +196,30 @@ When you processed **multiple tickers**, lead with a compact summary table (one 
 ticker: ticker, offset %, limit %, added/updated) and then the per-ticker detail. **Call out
 any ticker you skipped** and why (couldn't confirm PSE listing, no reliable data, halted), so
 the batch result is unambiguous.
+
+### 9. Commit and push directly to `main`
+
+This repo's workflow lands OCO updates **straight on the `main` branch** — no feature branch,
+no PR. As the final step, stage the research note(s) and the JSON together and push:
+
+```powershell
+git add ocoSellOrderValues.json research/
+git commit -m "Update OCO sell-order values for ICT, ALI, SCC (2-Jun-2026)"
+git push origin main
+```
+
+- **Commit the data and its audit trail in one commit** — the `ocoSellOrderValues.json`
+  change and the matching `research/<TICKER>-<DATE>.md` note(s) belong together.
+- **Commit message** — follow the existing history: name the tickers and the date, e.g.
+  `Update OCO sell-order values for ICT, ALI, SCC (2-Jun-2026)`, or `Add ...` when the run
+  introduces brand-new tickers. End the message with the standard co-author trailer
+  (`Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>`).
+- **Only commit the files this run actually changed.** Don't sweep in unrelated working-tree
+  edits — stage `ocoSellOrderValues.json` and the specific note(s) explicitly.
+- If `git push` is rejected because `main` advanced upstream, `git pull --rebase origin main`
+  and push again.
+- If any ticker was skipped, still push the ones that succeeded; just reflect that in the
+  commit message.
 
 ## Guardrails
 
