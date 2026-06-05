@@ -64,9 +64,9 @@
     },
     "AP": {
         "trailingLeg": {
-            "trailingOffsetPercent": 4,
+            "trailingOffsetPercent": 3.5,
             "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (7-May-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "APL": {
@@ -435,9 +435,9 @@
     },
     "ICT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 6,
-            "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (2-Jun-2026)"
+            "trailingOffsetPercent": 7.5,
+            "limitPricePercent": 1.0,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "IMI": {
