@@ -15,9 +15,9 @@
     },
     "ACEN": {
         "trailingLeg": {
-            "trailingOffsetPercent": 10,
-            "limitPricePercent": 1,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-May-2026)"
+            "trailingOffsetPercent": 9,
+            "limitPricePercent": 1.75,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "ACR": {
@@ -29,9 +29,9 @@
     },
     "AEV": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3.2,
-            "limitPricePercent": 0.5,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "trailingOffsetPercent": 4.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "AGI": {
@@ -106,9 +106,9 @@
     },
     "AUB": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3.5,
+            "trailingOffsetPercent": 3,
             "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (1-Jun-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "AXLM": {
@@ -148,9 +148,9 @@
     },
     "BPI": {
         "trailingLeg": {
-            "trailingOffsetPercent": 2.5,
-            "limitPricePercent": 0.25,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "CBC": {
@@ -163,8 +163,8 @@
     "CDC": {
         "trailingLeg": {
             "trailingOffsetPercent": 8,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "limitPricePercent": 3.5,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "CEB": {
@@ -330,9 +330,9 @@
     },
     "FEU": {
         "trailingLeg": {
-            "trailingOffsetPercent": 5,
+            "trailingOffsetPercent": 6,
             "limitPricePercent": 1.5,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (4-May-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "FGEN": {
@@ -526,9 +526,9 @@
     },
     "MBT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3.5,
+            "trailingOffsetPercent": 4.5,
             "limitPricePercent": 0.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (19-May-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "MEG": {
@@ -554,9 +554,9 @@
     },
     "MREIT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3,
+            "trailingOffsetPercent": 2,
             "limitPricePercent": 0.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (6-May-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "MRSGI": {
@@ -584,7 +584,7 @@
         "trailingLeg": {
             "trailingOffsetPercent": 5.5,
             "limitPricePercent": 1,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (2-Jun-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "NIKL": {
@@ -820,9 +820,9 @@
     },
     "SPC": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3.5,
+            "trailingOffsetPercent": 4.5,
             "limitPricePercent": 1,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (6-May-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
         }
     },
     "SPNEC": {
