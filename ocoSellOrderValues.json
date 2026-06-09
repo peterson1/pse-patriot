@@ -232,9 +232,9 @@
     },
     "CREIT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3.5,
+            "trailingOffsetPercent": 2.5,
             "limitPricePercent": 0.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (15-May-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (9-Jun-2026)"
         }
     },
     "CROWN": {
