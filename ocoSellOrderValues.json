@@ -729,9 +729,9 @@
     },
     "RLC": {
         "trailingLeg": {
-            "trailingOffsetPercent": 4.5,
-            "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (15-May-2026)"
+            "trailingOffsetPercent": 6,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (9-Jun-2026)"
         }
     },
     "ROCK": {
