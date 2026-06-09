@@ -211,9 +211,9 @@
     },
     "COSCO": {
         "trailingLeg": {
-            "trailingOffsetPercent": 4.5,
-            "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (1-Jun-2026)"
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 1,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (9-Jun-2026)"
         }
     },
     "CPG": {
