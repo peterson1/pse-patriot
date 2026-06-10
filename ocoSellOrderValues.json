@@ -778,9 +778,9 @@
     },
     "SGP": {
         "trailingLeg": {
-            "trailingOffsetPercent": 7.5,
+            "trailingOffsetPercent": 8.0,
             "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (8-Jun-2026)"
+            "suggestedBy": "Claude Fable 5 via Claude Code (10-Jun-2026)"
         }
     },
     "SHLPH": {
