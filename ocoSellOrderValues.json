@@ -78,9 +78,9 @@
     },
     "APX": {
         "trailingLeg": {
-            "trailingOffsetPercent": 8,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (8-May-2026)"
+            "trailingOffsetPercent": 9,
+            "limitPricePercent": 1.75,
+            "suggestedBy": "Claude Fable 5 via Claude Code (10-Jun-2026)"
         }
     },
     "AREIT": {
@@ -92,9 +92,9 @@
     },
     "ASLAG": {
         "trailingLeg": {
-            "trailingOffsetPercent": 12,
+            "trailingOffsetPercent": 11,
             "limitPricePercent": 2.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (19-May-2026)"
+            "suggestedBy": "Claude Fable 5 via Claude Code (10-Jun-2026)"
         }
     },
     "AT": {
@@ -687,9 +687,9 @@
     },
     "PX": {
         "trailingLeg": {
-            "trailingOffsetPercent": 8,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (8-May-2026)"
+            "trailingOffsetPercent": 9,
+            "limitPricePercent": 1.75,
+            "suggestedBy": "Claude Fable 5 via Claude Code (10-Jun-2026)"
         }
     },
     "PXP": {
