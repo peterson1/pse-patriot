@@ -687,9 +687,9 @@
     },
     "PX": {
         "trailingLeg": {
-            "trailingOffsetPercent": 9,
-            "limitPricePercent": 1.75,
-            "suggestedBy": "Claude Fable 5 via Claude Code (10-Jun-2026)"
+            "trailingOffsetPercent": 9.5,
+            "limitPricePercent": 2.0,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jun-2026)"
         }
     },
     "PXP": {
