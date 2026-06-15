@@ -435,9 +435,9 @@
     },
     "ICT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 7.5,
-            "limitPricePercent": 1.0,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
+            "trailingOffsetPercent": 8.5,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jun-2026)"
         }
     },
     "IMI": {
