@@ -162,9 +162,9 @@
     },
     "CDC": {
         "trailingLeg": {
-            "trailingOffsetPercent": 8,
+            "trailingOffsetPercent": 7.5,
             "limitPricePercent": 3.5,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jun-2026)"
         }
     },
     "CEB": {
