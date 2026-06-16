@@ -78,9 +78,9 @@
     },
     "APX": {
         "trailingLeg": {
-            "trailingOffsetPercent": 9,
-            "limitPricePercent": 1.75,
-            "suggestedBy": "Claude Fable 5 via Claude Code (10-Jun-2026)"
+            "trailingOffsetPercent": 9.5,
+            "limitPricePercent": 2.0,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (16-Jun-2026)"
         }
     },
     "AREIT": {
@@ -241,7 +241,7 @@
         "trailingLeg": {
             "trailingOffsetPercent": 4.5,
             "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (16-Jun-2026)"
         }
     },
     "DD": {
@@ -617,9 +617,9 @@
     },
     "PERC": {
         "trailingLeg": {
-            "trailingOffsetPercent": 11,
-            "limitPricePercent": 2,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "trailingOffsetPercent": 8.0,
+            "limitPricePercent": 2.0,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (16-Jun-2026)"
         }
     },
     "PGOLD": {
@@ -778,9 +778,9 @@
     },
     "SGP": {
         "trailingLeg": {
-            "trailingOffsetPercent": 8.0,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Fable 5 via Claude Code (10-Jun-2026)"
+            "trailingOffsetPercent": 9.5,
+            "limitPricePercent": 1.75,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (16-Jun-2026)"
         }
     },
     "SHLPH": {
