@@ -239,9 +239,9 @@
     },
     "CROWN": {
         "trailingLeg": {
-            "trailingOffsetPercent": 4.5,
+            "trailingOffsetPercent": 4,
             "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (16-Jun-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-Jun-2026)"
         }
     },
     "DD": {
@@ -435,9 +435,9 @@
     },
     "ICT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 8.5,
-            "limitPricePercent": 1.25,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jun-2026)"
+            "trailingOffsetPercent": 10.5,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-Jun-2026)"
         }
     },
     "IMI": {
