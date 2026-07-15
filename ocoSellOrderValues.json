@@ -148,9 +148,9 @@
     },
     "BPI": {
         "trailingLeg": {
-            "trailingOffsetPercent": 5,
-            "limitPricePercent": 0.5,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (5-Jun-2026)"
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jul-2026)"
         }
     },
     "CBC": {
@@ -379,9 +379,9 @@
     },
     "GLO": {
         "trailingLeg": {
-            "trailingOffsetPercent": 5,
-            "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Sonnet 4.6 via GitHub Copilot (15-May-2026)"
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1.0,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jul-2026)"
         }
     },
     "GLOBA": {
@@ -596,9 +596,9 @@
     },
     "OGP": {
         "trailingLeg": {
-            "trailingOffsetPercent": 6.5,
-            "limitPricePercent": 1.25,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-May-2026)"
+            "trailingOffsetPercent": 7.0,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jul-2026)"
         }
     },
     "PAL": {
@@ -687,9 +687,9 @@
     },
     "PX": {
         "trailingLeg": {
-            "trailingOffsetPercent": 9.5,
+            "trailingOffsetPercent": 10.0,
             "limitPricePercent": 2.0,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jun-2026)"
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jul-2026)"
         }
     },
     "PXP": {
