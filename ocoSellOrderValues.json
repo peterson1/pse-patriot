@@ -92,9 +92,9 @@
     },
     "ASLAG": {
         "trailingLeg": {
-            "trailingOffsetPercent": 11,
-            "limitPricePercent": 2.5,
-            "suggestedBy": "Claude Fable 5 via Claude Code (10-Jun-2026)"
+            "trailingOffsetPercent": 9,
+            "limitPricePercent": 2.75,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (20-Jul-2026)"
         }
     },
     "AT": {
