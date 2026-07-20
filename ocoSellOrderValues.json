@@ -239,9 +239,9 @@
     },
     "CROWN": {
         "trailingLeg": {
-            "trailingOffsetPercent": 4,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-Jun-2026)"
+            "trailingOffsetPercent": 5,
+            "limitPricePercent": 1.75,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (20-Jul-2026)"
         }
     },
     "DD": {
