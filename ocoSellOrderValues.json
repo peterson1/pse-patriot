@@ -99,9 +99,9 @@
     },
     "AT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 10,
-            "limitPricePercent": 2,
-            "suggestedBy": "Gemini 3.1 Pro (Preview) via Github Copilot (1-May-2026)"
+            "trailingOffsetPercent": 9.5,
+            "limitPricePercent": 2.25,
+            "suggestedBy": "Claude Opus 4.8 via Claude Code (20-Jul-2026)"
         }
     },
     "AUB": {
