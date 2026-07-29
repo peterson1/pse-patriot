@@ -148,9 +148,9 @@
     },
     "BPI": {
         "trailingLeg": {
-            "trailingOffsetPercent": 5.5,
+            "trailingOffsetPercent": 4,
             "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (15-Jul-2026)"
+            "suggestedBy": "Claude Opus 5 via Claude Code (29-Jul-2026)"
         }
     },
     "CBC": {
@@ -240,8 +240,8 @@
     "CROWN": {
         "trailingLeg": {
             "trailingOffsetPercent": 4,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (22-Jul-2026)"
+            "limitPricePercent": 1.75,
+            "suggestedBy": "Claude Opus 5 via Claude Code (29-Jul-2026)"
         }
     },
     "DD": {
@@ -435,9 +435,9 @@
     },
     "ICT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 10.5,
-            "limitPricePercent": 1.5,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (30-Jun-2026)"
+            "trailingOffsetPercent": 6.5,
+            "limitPricePercent": 1.25,
+            "suggestedBy": "Claude Opus 5 via Claude Code (29-Jul-2026)"
         }
     },
     "IMI": {
@@ -526,9 +526,9 @@
     },
     "MBT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 4.5,
-            "limitPricePercent": 0.75,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (19-Jun-2026)"
+            "trailingOffsetPercent": 3,
+            "limitPricePercent": 0.5,
+            "suggestedBy": "Claude Opus 5 via Claude Code (29-Jul-2026)"
         }
     },
     "MEG": {
@@ -596,9 +596,9 @@
     },
     "OGP": {
         "trailingLeg": {
-            "trailingOffsetPercent": 6.5,
-            "limitPricePercent": 1.25,
-            "suggestedBy": "Claude Opus 4.8 via Claude Code (22-Jul-2026)"
+            "trailingOffsetPercent": 5.5,
+            "limitPricePercent": 1.0,
+            "suggestedBy": "Claude Opus 5 via Claude Code (29-Jul-2026)"
         }
     },
     "PAL": {
