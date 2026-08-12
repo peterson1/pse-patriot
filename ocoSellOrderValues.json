@@ -526,9 +526,9 @@
     },
     "MBT": {
         "trailingLeg": {
-            "trailingOffsetPercent": 3,
-            "limitPricePercent": 0.5,
-            "suggestedBy": "Claude Opus 5 via Claude Code (29-Jul-2026)"
+            "trailingOffsetPercent": 3.5,
+            "limitPricePercent": 0.75,
+            "suggestedBy": "Claude Opus 5 via Claude Code (12-Aug-2026)"
         }
     },
     "MEG": {
@@ -596,9 +596,9 @@
     },
     "OGP": {
         "trailingLeg": {
-            "trailingOffsetPercent": 5.5,
-            "limitPricePercent": 1.0,
-            "suggestedBy": "Claude Opus 5 via Claude Code (29-Jul-2026)"
+            "trailingOffsetPercent": 7.0,
+            "limitPricePercent": 1.5,
+            "suggestedBy": "Claude Opus 5 via Claude Code (12-Aug-2026)"
         }
     },
     "PAL": {
